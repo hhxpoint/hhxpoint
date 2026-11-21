@@ -32,7 +32,7 @@
 
 > 完整索引与迁移记录：[open-source-showcase](https://github.com/hhxpoint/open-source-showcase)
 >
-> 仓库索引只列出当前维护的项目。早期练习、旧版博客和空占位仓库已归档，仍可在 GitHub 的 Archived 过滤器查看；不再逐条列入索引。
+> 仓库索引只列出当前维护的项目。早期练习和旧版博客已公开归档，空占位仓库已转为私有归档；不再逐条列入索引。
 
 ---
 
