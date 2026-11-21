@@ -16,6 +16,7 @@
 
 | 项目 | 一句话 | 技术 |
 |---|---|---|
+| [栖页 · 文献阅读](https://github.com/hhxpoint/qiye-reader) | 浏览器本地文献阅读、翻译与图表保真导出；PDF / Word / Markdown | React、TypeScript、PDF.js、Transformers.js |
 | [小火苗 · 微信小程序](https://github.com/hhxpoint/answer) | 和重要的人一起养一只小火苗：关系空间、悄悄话、时光、纪念日、语音信箱 | 微信小程序、Node.js、SQLite、WebSocket |
 | [RAG 烹饪知识图谱](https://github.com/hhxpoint/rag-cooking-kg) | 图谱 + BM25 + 可追溯生成 + 可视化；课程设计完整交付 | Python、NetworkX、D3、BM25 |
 | [AcOJ 在线判题](https://github.com/hhxpoint/online-judge) | Next.js + Supabase + Python 评测机 | Next.js、TypeScript、Flask |
@@ -30,6 +31,8 @@
 | [ML 课程项目](https://github.com/hhxpoint/ml-coursework) | PCA/LDA、猫狗分类、BirdCLEF | Python、TensorFlow |
 
 > 完整索引与迁移记录：[open-source-showcase](https://github.com/hhxpoint/open-source-showcase)
+>
+> 仓库索引只列出当前维护的项目。早期练习、旧版博客和空占位仓库已归档，仍可在 GitHub 的 Archived 过滤器查看；不再逐条列入索引。
 
 ---
 
